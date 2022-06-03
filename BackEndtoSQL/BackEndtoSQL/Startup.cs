@@ -22,7 +22,7 @@ namespace BackEndtoSQL
 
             services.AddDbContext<AppDbContext>(opt =>
             {
-                opt.UseSqlServer(@" Server =DESKTOP-4V8U0BV\MSSQLSERVER01;Database = SQLBusiness;Trusted_Connection = true,
+                opt.UseSqlServer(@" Server =DESKTOP-4V8U0BV\MSSQLSERVER01;Database = SQLBusiness;Trusted_Connection = true;
                                     Integrated Security = true");
             }
 

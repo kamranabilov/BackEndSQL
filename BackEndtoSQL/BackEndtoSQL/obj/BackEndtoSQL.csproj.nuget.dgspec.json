@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\3.Asp.Net.Core\\BackEndtoSQL\\BackEndtoSQL\\BackEndtoSQL.csproj": {}
+    "E:\\3.Asp.Net.Core\\GitPush\\BackEndtoSQL\\BackEndtoSQL\\BackEndtoSQL.csproj": {}
   },
   "projects": {
-    "E:\\3.Asp.Net.Core\\BackEndtoSQL\\BackEndtoSQL\\BackEndtoSQL.csproj": {
+    "E:\\3.Asp.Net.Core\\GitPush\\BackEndtoSQL\\BackEndtoSQL\\BackEndtoSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\3.Asp.Net.Core\\BackEndtoSQL\\BackEndtoSQL\\BackEndtoSQL.csproj",
+        "projectUniqueName": "E:\\3.Asp.Net.Core\\GitPush\\BackEndtoSQL\\BackEndtoSQL\\BackEndtoSQL.csproj",
         "projectName": "BackEndtoSQL",
-        "projectPath": "E:\\3.Asp.Net.Core\\BackEndtoSQL\\BackEndtoSQL\\BackEndtoSQL.csproj",
+        "projectPath": "E:\\3.Asp.Net.Core\\GitPush\\BackEndtoSQL\\BackEndtoSQL\\BackEndtoSQL.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\3.Asp.Net.Core\\BackEndtoSQL\\BackEndtoSQL\\obj\\",
+        "outputPath": "E:\\3.Asp.Net.Core\\GitPush\\BackEndtoSQL\\BackEndtoSQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
